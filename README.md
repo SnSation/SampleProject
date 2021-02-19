@@ -13,7 +13,7 @@ Sample Project's highlighted capabilities can go in a second paragraph, if it is
 
 [Sample Use](https://a-blair-portfolio-api.herokuapp.com/project/SampleProject "Sample Project on Website")
 
-Target(s) / Constraint(s)
+Goals & Constraints
 -------------------------
 
 Why does this project exist?
@@ -128,7 +128,7 @@ Sample Project Results:
     2. Your Life is Easier
     3. You Know More Things
 ```
-Current Goals | Future Additions
+Current Tasks & Future Additions
 --------------------------------
 - [x] Complete Task | Completed: 02/19/2021
 - [ ] Incomplete Task | In Development
