@@ -11,7 +11,7 @@ Sample Project's highlighted capabilities can go in a second paragraph, if it is
 
 [GitHub Repository](https://github.com/SnSation/SampleProject "Sample Project Repository")
 
-[Sample Use](https://a-blair-portfolio-api.herokuapp.com/project/SampleProject "Sample Project on Website")
+[Sample Use](https://a-blair-portfolio.herokuapp.com/project/SampleProject "Sample Project on Website")
 
 Goals & Constraints
 -------------------------
@@ -145,10 +145,10 @@ Contributors & Credits
 
 - **Owner**: Alexander Blair
     - **Email**: ablairdevelopment@gmail.com
-    - **Portfolio**: https://a-blair-portfolio-api.herokuapp.com/
+    - **Portfolio**: https://a-blair-portfolio.herokuapp.com/
     - **GitHub**: https://github.com/SnSation
 - **Contributors**:
-    - [Contributor Name](https://a-blair-portfolio-api.herokuapp.com/ "Contributor Website") | [GitHub](https://github.com/SnSation) | contributor@email.com
+    - [Contributor Name](https://a-blair-portfolio.herokuapp.com/ "Contributor Website") | [GitHub](https://github.com/SnSation) | contributor@email.com
 - **Resources**:
     - [Resource Name](https://www.google.com/ "Resource Website")
 
@@ -156,6 +156,6 @@ Contributors & Credits
 Links
 -----
 
-- [Sample Project in Use](https://a-blair-portfolio-api.herokuapp.com/projects/SampleProject "See Sample Project in Use")
-- [Past Versions](https://a-blair-portfolio-api.herokuapp.com/archive/project/SampleProject "Past Versions Directory")
-- [Author](https://a-blair-portfolio-api.herokuapp.com/ "Author Website")
+- [Sample Project in Use](https://a-blair-portfolio.herokuapp.com/projects/SampleProject "See Sample Project in Use")
+- [Past Versions](https://a-blair-portfolio.herokuapp.com/archive/project/SampleProject "Past Versions Directory")
+- [Author](https://a-blair-portfolio.herokuapp.com/ "Author Website")
