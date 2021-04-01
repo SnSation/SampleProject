@@ -1,0 +1,1 @@
+# SamplePackage.core.settings

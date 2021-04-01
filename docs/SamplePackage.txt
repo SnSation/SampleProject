@@ -1,0 +1,23 @@
+This is just placeholder text until I create a documentation template
+
+# Sections:
+        # 1. Class Variables
+        # 2. Special Methods
+        # 3. Getters and Setters
+        # 4. Attribute Methods
+        # 5. Utility Methods
+        # 6. Main Method
+        # 7. Primary Methods
+
+    ##### Key #####
+        # Name as a string = 'name' OR 'target_name'
+        # Text as a string = 'text'
+        # Object = 'class_name_obj'
+        # Dictionary = 'expected_content_dict'
+        # List = 'expected_object_type_list'
+        # Tuple = 'target_variable_tup'
+        # String = 'target_variable_str'
+        # Integer = 'target_variable_int'
+        # Boolean = 'target_variable_bool'
+        # Argument Value = 'argument_name_value'
+        # Other = 'targetvariable_expectation'
