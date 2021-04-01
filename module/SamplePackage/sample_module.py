@@ -1,17 +1,26 @@
 # SamplePackage.sample_module
-# Explanation of this file goes here
+# EXPLANATION
+"""
+SamplePackage.sample_module
+DOCSTRING
+"""
 
-# 'core_function' explanation goes here
-def core_function(argument):
-    """
-    core_function docstring
-    """
-    pass
+# Content #
+    # F1. Import Statements
+    # V1. module_variable: 
+    # C1. SampleObject: 
+    # M1. core_function: 
 
-# 'SampleObject' explanation goes here
+# V1 'module_variable'
+# EXPLANATION
+module_variable = None
+
+# C1 'SampleObject'
+# EXPLANATION
 class SampleObject:
     """
-    SampleObject docstring
+    SampleObject
+    DOCSTRING
     """
     # Class Variables #
     class_name = 'SampleObject'
@@ -34,9 +43,11 @@ class SampleObject:
         return self.name
 
     # Attribute Methods #
+
     # 'set_attribute' and 'set_attributes' methods are redundant
     # with the getters and setters above, but are included as an
     # alternative.
+
     def to_dict(self):
         """
         Returns a dictionary of the object's attributes
@@ -74,4 +85,11 @@ class SampleObject:
     
     # Primary Methods #
 
-
+# M1 'core_method'
+# EXPLANATION
+def core_method(argument):
+    """
+    core_method
+    DOCSTRING
+    """
+    pass

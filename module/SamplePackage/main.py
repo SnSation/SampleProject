@@ -1,4 +1,4 @@
-# SamplePackage.samplepackage
+# SamplePackage.main
 
 # 'SampleClass' explanation goes here
 class SampleClass:
@@ -9,12 +9,16 @@ class SampleClass:
     class_name = 'SampleClass'
 
     # Special Methods #
-    def __init__(self):
-        self.name = None
-        self.ready = False
+    def __init__(self, name=None, profile=None):
+        self.attributes = ["name", "profile"]
+        self.profile = profile
+        self.name = name
+
+    def __str__(self):
+        return 'SampleClass'
     
     def __repr__(self):
-        return f'< SampleClass | Name: {self.name} >'
+        return f"< class 'SamplePackage.main.SampleClass.{self.name}' >"
 
     # Getters and Setters #
     def set_name(self, name):
@@ -22,12 +26,6 @@ class SampleClass:
 
     def get_name(self):
         return self.name
-
-    def set_ready(self, ready_bool):
-        self.ready = ready_bool
-
-    def get_ready(self):
-        return self.ready
 
     # Attribute Methods #
     # 'set_attribute' and 'set_attributes' methods are redundant
